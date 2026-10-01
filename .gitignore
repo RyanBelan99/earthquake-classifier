@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+# generated training-curve output
+earthquake_figure*.txt
+house_figure*.txt
+figure_*.txt
